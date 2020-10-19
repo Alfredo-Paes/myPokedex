@@ -1,0 +1,94 @@
+body {
+    font-family: 'Press Start 2P';
+    background: linear-gradient(to right, rgb(197, 230, 236), rgb(239, 187, 230));
+}
+
+h1 {
+    font-size: 70px;
+    color: yellow;
+    -webkit-text-stroke: 2px blue;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+th {
+    background-color: salmon;
+}
+
+.hide{color:red}
+
+
+.pokemon-image {
+	height: 150px;
+}
+
+.container {
+   padding: 40px;
+   margin-left: 360px;
+}
+
+.steel {
+	background-color: #f4f4f4;
+}
+
+.fire {
+	background-color: #FDDFDF;
+}
+
+.grass {
+	background-color: #DEFDE0;
+}
+
+.electric {
+	background-color: #FCF7DE;
+}
+
+.water, .ice {
+	background-color: #DEF3FD;
+}
+
+.ground {
+	background-color: #f4e7da;
+}
+
+.rock {
+	background-color: #d5d5d4;
+}
+
+.fairy {
+	background-color: #fceaff;
+}
+
+.poison {
+	background-color: #98d7a5;
+}
+
+.bug {
+	background-color: #f8d5a3;
+}
+
+.dragon {
+	background-color: #97b3e6;
+}
+
+.psychic {
+	background-color: #eaeda1;
+}
+
+.flying {
+	background-color: #F5F5F5;
+}
+
+.fighting {
+	background-color: #E6E0D4;
+}
+
+.normal {
+	background-color: #F5F5F5;
+}

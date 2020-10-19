@@ -1,0 +1,14 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "A Pokedex that lists 151 Pokemons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Paes",
+  "license": "MIT",
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  }
+}
