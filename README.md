@@ -5,7 +5,7 @@ To populate the table, a PokeAPI was used. According to PokeAPI's own descriptio
 
 On the front-end, Nes.css was used, an incredible framework that offers an 8-bit look, that is, very cool pixel art to use with the Pokémon theme.
 
-##Refrences
+## Refrences
 
 #### Nes.css: https://github.com/nostalgic-css/NES.css
 
